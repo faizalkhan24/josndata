@@ -1,0 +1,50 @@
+
+   
+
+{
+    "Job Details": {
+        "City": "Los Altos",
+        "Deadline for Applications": "2024-09-25 00:00:00",
+        "Employment Type": "Full-time",
+        "Is Active": true,
+        "Job Code": "JOB-0002-0924",
+        "Job Id": 1,
+        "Job Location": "California",
+        "Job Title": "Software Engineers",
+        "Posted Date": "2024-08-29 00:00:00",
+        "Salary Range End": 134.0,
+        "Salary Range Start": 122.0
+    },
+    "Matched Members": [
+        {
+            "City": null,
+            "Member Email": "skhan@g222ams.com",
+            "Member First Name": "shahrukh",
+            "Member Id": 47,
+            "Member Last Name": "khan",
+            "Similarity": 80.0
+        },
+        {
+            "City": null,
+            "Member Email": "sidhp@gmail.com",
+            "Member First Name": "sidharth",
+            "Member Id": 72,
+            "Member Last Name": "parwanda",
+            "Similarity": 77.0
+        },
+        {
+            "City": "Carmel",
+            "Member Email": "estanleym2n@icloud.com",
+            "Member First Name": "Eric",
+            "Member Id": 48,
+            "Member Last Name": "Stanley",
+            "Similarity": 75.0
+        }
+    ]
+}
+
+
+ 
+
+
+
